@@ -7,13 +7,13 @@ Operating System Used in development: OS X El Capitan Version 10.11.6
 
 Installation Instructions:
 
-1.Open a terminal
+1. Open a terminal
 
-2.Clone the repository
+2. Clone the repository
 
-2.Go to the directory of the repository
+3. Go to the directory of the repository
 
-3.Run galoisfield.py
+4. Run galoisfield.py
 
 References:
 
